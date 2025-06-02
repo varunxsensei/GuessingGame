@@ -1,4 +1,4 @@
-🇺🇳 Flag Guessing Game
+<h1>🇺🇳 Flag Guessing Game<\h1><br/><br/>
 A simple and fun iOS app built with SwiftUI where users guess the correct flag out of three options. This mini-project is part of my journey into iOS development — a great hands-on exercise to explore SwiftUI basics, state management, and layout design.
 
 🛠 Features
