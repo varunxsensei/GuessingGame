@@ -33,7 +33,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/GuessingGame.git
+git clone https://github.com/varunxsensei/GuessingGame.git
 Open the .xcodeproj or .xcodeworkspace file in Xcode.
 
 Make sure your target device is set to iPhone (any version).
