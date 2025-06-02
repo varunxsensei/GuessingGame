@@ -1,7 +1,7 @@
 <h1>🇺🇳 Flag Guessing Game</h1><br/><br/>
 A simple and fun iOS app built with SwiftUI where users guess the correct flag out of three options. This mini-project is part of my journey into iOS development — a great hands-on exercise to explore SwiftUI basics, state management, and layout design.
 
-🛠 Features
+<h2>🛠 Features</h2><br/><br/>
 🎯 Random flag selection from a list of 11 countries
 
 🧠 Score tracking
@@ -12,20 +12,20 @@ A simple and fun iOS app built with SwiftUI where users guess the correct flag o
 
 🎉 Dynamic reshuffling after each question
 
-📱 Screenshots
+<h2>📱 Screenshots</h2>
 <br/><br/>
 <img width="1440" alt="Screenshot 2025-06-02 at 10 15 21 AM" src="https://github.com/user-attachments/assets/94cdc206-42e5-4563-9f48-6969f9fa9a5a" /><br/><br/>
 <img width="1440" alt="Screenshot 2025-06-02 at 10 14 56 AM" src="https://github.com/user-attachments/assets/32a16539-1b03-4e6d-a0e1-8234fc9f6c66" />
 
 
-🧑‍💻 Technologies Used
+<h2>🧑‍💻 Technologies Used</h2><br/><br/>
 Swift
 
 SwiftUI
 
 Xcode 15+
 
-🚀 Getting Started
+<h2>🚀 Getting Started</h2><br/><br/>
 To run the project locally:
 
 Clone the repo:
@@ -44,10 +44,8 @@ Hit Run ▶️.
 
 
 
-📂 Folder Structure
-css
-Copy
-Edit
+<h2>📂 Folder Structure</h2><br/><br/>
+
 GuessingGame/
 ├── Assets.xcassets/
 │   └── [Flag Images]
@@ -55,7 +53,7 @@ GuessingGame/
 └── GuessingGameApp.swift
 
 
-🎓 What I Learned
+<h2>🎓 What I Learned</h2><br/><br/>
 State management using @State
 
 View updates with SwiftUI bindings
@@ -64,19 +62,10 @@ Working with Button, Image, Alert, and ZStack/VStack
 
 Structuring simple game logic in Swift
 
-💡 Future Improvements
-Add animations for correct/wrong answers
-
-Add a final score screen or end-of-game logic
-
-Improve flag accessibility with accessibilityLabel
-
-Include sound effects for better feedback
-
-🙌 Acknowledgements
+<h2>🙌 Acknowledgements</h2><br/><br/>
 Inspired by Paul Hudson's 100 Days of SwiftUI – Day 20 project.
 
-📬 Contact
+<h2>📬 Contact</h2><br/><br/>
 Feel free to reach out or connect with me:
 
 LinkedIn: https://www.linkedin.com/in/varun-saxena-5678b5340/
