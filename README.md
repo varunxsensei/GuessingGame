@@ -13,7 +13,8 @@ A simple and fun iOS app built with SwiftUI where users guess the correct flag o
 🎉 Dynamic reshuffling after each question
 
 📱 Screenshots
-<img width="1440" alt="Screenshot 2025-06-02 at 10 15 21 AM" src="https://github.com/user-attachments/assets/94cdc206-42e5-4563-9f48-6969f9fa9a5a" /><br/>
+<br/>
+<img width="1440" alt="Screenshot 2025-06-02 at 10 15 21 AM" src="https://github.com/user-attachments/assets/94cdc206-42e5-4563-9f48-6969f9fa9a5a" /><br/><br/>
 <img width="1440" alt="Screenshot 2025-06-02 at 10 14 56 AM" src="https://github.com/user-attachments/assets/32a16539-1b03-4e6d-a0e1-8234fc9f6c66" />
 
 
